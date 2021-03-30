@@ -1,0 +1,17 @@
+pickup_location:
+  pose_x: 0.5
+  pose_y: -3
+  pose_z: 0.0
+  quat_x: 0.0
+  quat_y: 0.0
+  quat_z: 0.0
+  quat_w: 1
+
+dropoff_location:
+  pose_x: -6.5
+  pose_y: -3.5
+  pose_z: 0.0
+  quat_x: 0.0
+  quat_y: 0.0
+  quat_z: 0.0
+  quat_w: 1
