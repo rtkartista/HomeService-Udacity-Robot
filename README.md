@@ -1,5 +1,5 @@
 # Home Service Robot Project
-<img src="media/homeservice.gif" width="1000" height="700" />
+<img src="media/homeservice.gif" />
 
 ## Project summary
 ### A brief write-up explaining the packages used for this project, covering localization, mapping and navigation.
